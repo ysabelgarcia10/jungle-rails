@@ -2,6 +2,16 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+### Register/Log In
+<img src="https://media.giphy.com/media/61behOW8w351fEjxQU/giphy.gif" width="700"  />
+
+### Admin Access - Adding a New Category/Product
+<img src="https://media.giphy.com/media/WPVhCeNbZTUCAvP6V5/giphy.gif" width="700"  />
+
+### Purchase Walkthrough
+<img src="https://media.giphy.com/media/fvgJN86kxFhRSTQtVr/giphy.gif" width="700"  />
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
